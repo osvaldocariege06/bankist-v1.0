@@ -1,0 +1,135 @@
+/* 
+   Walaletec - Soluções Tecnológicas
+   Desenvolvido por Herlander Bento 
+   Data 23 / 07 /2019
+
+*/
+
+
+@media screen and (max-width: 320px){
+	.servico-sobre{
+		margin-top: -35px !important;
+		height: 500px !important;
+		
+	}
+
+	.servico-sobre{
+		margin-top: -20px;
+		
+	}
+
+	 .navbar-brand span {
+      font-size: 12pt !important;
+  	}
+
+      .navbar-brand img{
+      	width: 10px !important;
+     }
+}
+
+@media screen and (max-width: 350px){
+
+	 .navbar-brand span {
+      font-size: 12pt !important;
+  	}
+
+      .navbar-brand img{
+      	width: 10px !important;
+     }
+}
+
+
+/* 486px */
+@media screen and (max-width: 486px){
+	 .navbar-brand{
+          font-size: 13pt !important;
+      }
+
+      .navbar-brand img{
+      	width: 20px !important;
+      }
+
+
+	.carousel-item-banner img{
+	width: 100%;
+	height: 550px !important;
+	}
+
+	.banner-info{
+	margin-top: 15px;
+}
+
+	.banner-info h1{
+		font-size: 20pt !important;
+	}
+
+	.servico-info h3{
+		font-size: 20pt !important;
+	}
+	.departamentos-info h3{
+		font-size: 20pt !important;
+	}
+
+	.projectos-info h3{
+		font-size: 20pt !important;
+	}
+
+	.galeria-info h3{
+		font-size: 20pt !important;
+	}
+
+	.servico-sobre h3{
+		padding-top: 40px !important;
+		margin-top: 20px !important;
+	}
+
+	#servico-sobre{
+		height: 480px !important;
+		
+	}
+
+}
+
+/*768 */
+@media screen and (max-width: 768px){
+	
+	.right-imagem{
+		display: none;
+	}
+
+	.header-topo-left ul{
+  		margin: 0 !important;
+	}
+
+}
+
+@media screen and (max-width: 988px){
+		.servico-sobre{
+		position: relative;
+		margin-top: -40px !important;
+	}
+	
+}
+
+@media screen and (max-width: 991px){
+	.navbar-default-home{
+		background-color: rgba(0,0,0,0.5) !important;
+	}
+
+	.navbar-default .nav-link-o{
+  		display: block !important;
+	}
+
+	.navbar-default .nav-item ul{
+ 	 display: none !important;
+	}
+
+	.top-nav-collapse{
+		background-color: #000 !important;
+	}
+
+	.menu-home{
+      margin-left: 0px !important;
+    }
+	
+}
