@@ -26,7 +26,7 @@
 
 ## Github Page 👇
 
-[Bankist](https://https://github.com/osvaldocariege06)
+[Bankist](https://osvaldocariege06.github.io/bankist-v1.0/)
 
 <img src="./images/bankist.png" alt="Bankist - Home" align="center" />
 
